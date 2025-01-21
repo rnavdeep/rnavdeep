@@ -1,9 +1,10 @@
 Hi there
-
-- 🔭 I’m currently working on a side project Expense Analyser.
 - 🌱 I’m currently learning VueJs and .NET.
 - 👯 I’m looking to collaborate on current project or new project ideas.
 - 💬 Ask me about VueJs, .NET, SQL and AWS.
+
+- 🔭 I’m currently working on a side project Expense Analyser.
+
 Demo of current project:
 <p align="center">
    <a href="https://www.youtube.com/watch?v=lGVWm1bZcWQ" target="_blank">
